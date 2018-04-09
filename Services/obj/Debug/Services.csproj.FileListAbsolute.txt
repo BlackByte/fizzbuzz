@@ -1,0 +1,10 @@
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\bin\Services.dll.config
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\bin\Services.dll
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\bin\Services.pdb
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\obj\Debug\Services.dll
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\obj\Debug\Services.pdb
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\bin\log4net.dll
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\bin\log4net.xml
+C:\Users\meisam.jenagui.CONCATEL\source\repos\Services\Services\obj\Debug\Services.csproj.CopyComplete
